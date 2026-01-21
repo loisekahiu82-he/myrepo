@@ -1,0 +1,157 @@
+.navbar{
+           background-color: deepskyblue;
+           padding: 15px 30px;
+           width: 100%;
+       }
+       .nav-container{
+           display: flex;
+           justify-content: space-between;
+           align-items: center;
+           width: 90%;
+       }
+       .logo{
+           color: white;
+           font-size: 26px;
+           font-weight: bold;
+       }
+       .nav-menu{
+           display: flex;
+           list-style: none;
+           gap: 40px;
+       }
+       .nav-link{
+           color: white;
+           text-decoration: none;
+           font-size: 20px;
+           font-weight: bold;
+       }
+       .signup-btn{
+           background-color: blueviolet;
+           color: black;
+           padding: 10px 20px;
+           border-radius: 20px;
+           border: none;
+       }
+      .signup-btn:hover{
+          background-color: magenta;
+          color: lime;
+      }
+      .nav-link:hover{
+          color: deeppink;
+          background-color: black;
+          padding: 10px;
+          border-radius: 20px;
+      }
+       h3 {
+            color: dodgerblue;
+            font-size: 32px;
+            text-align: center;
+            text-decoration: underline;
+        }
+        form{
+            background-color: lightgray;
+            padding: 20px;
+            width: 400px;
+            border-radius: 15px;
+        }
+        label{
+            color: black;
+            text-align: center;
+            margin-bottom: 20px;
+            border-radius: 10px;
+        }
+        input{
+            background-color: wheat;
+            color: orchid;
+        }
+        button{
+            text-decoration: none;
+            background-color: cornsilk;
+            color: darkorchid;
+            padding: 10px;
+            border-radius: 10px;
+            font-size: 25px;
+        }
+        button:hover{
+            background-color: cornsilk;
+            color: limegreen;
+            padding: 10px;
+        }
+        main{
+            background-color: springgreen;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px auto;
+            max-width: 1000px;
+        }
+        h1{
+            color: blueviolet;
+            font-size: 32px;
+            text-decoration: underline;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h2{
+            color: blueviolet;
+            font-size: 32px;
+            text-decoration: underline;
+            text-align: center;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            border-bottom: 2px solid white;
+        }
+        p{
+            background-color: lime;
+            color: black;
+            font-size: 20px;
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+        .hero-image{
+            background-image: url("../legos /assets/images/university-2104580_1280(1).jpg");
+            height: 400px;
+            border-radius: 20px;
+            background-size: cover;
+            background-position: center;
+        }
+        .hero-text{
+            background-color:black;
+            color: deeppink;
+            font-size: 38px;
+            font-weight: bold;
+            position: relative;
+            top:50%
+        }
+            h2{
+                color: blue;
+                padding: 10px;
+                font-size: 30px;
+                text-align: center;
+            }
+            ul{
+                background-color: grey;
+                color: black;
+                padding: 10px;
+            }
+            iframe{
+          width:1000px;
+          padding: 10px;
+          border-radius: 20px;
+          background-size: cover;
+          background-position: center;
+      }
+      footer{
+          background-color: darkgray;
+          color: navy;
+          text-align: center;
+          padding: 10px;
+      }
+      .youtube{
+          display: inline-flex;
+          background-position: center;
+          background-size: auto;
+          justify-content: space-between;
+          gap:20px
+
+
+      }
